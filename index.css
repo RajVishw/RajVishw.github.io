@@ -160,6 +160,7 @@ header.shadow {
     padding: 0.7rem 1.3rem;
     border-radius: 0.5rem;
     border: 1px solid white;
+  
   }
   .btn:hover {
     color:rebeccapurple;
@@ -581,6 +582,8 @@ header.shadow {
       margin-bottom: 40px;
     }
 
- 
+ #buttnn{
+height: 50%;
+ }
 
   }
