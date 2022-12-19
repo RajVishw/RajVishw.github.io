@@ -9,7 +9,9 @@
   scroll-behavior: smooth;
   scroll-padding-top: 2rem;
   font-family: "Poppins", sans-serif;
+  color: white;
 }
+
 :root {
   --main-color: #033a80;
   --bg-color: #0f0c27;
@@ -212,6 +214,7 @@ header.shadow {
   gap: 20px;
   /* border: 1px solid red; */
   margin-top: 60px  ;
+  text-align: center;
   
 }
 #SkillsContainer img{
